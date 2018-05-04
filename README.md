@@ -85,7 +85,3 @@ https://alodjinha.herokuapp.com/swagger-ui.html
 ## CONCLUSÃO
 
 Crie um Fork desse repositório e envie um pull request.</br>
-Caso seu projeto possua alguma pré condição para ser executado (EX: fazer o pod install), crie um arquivo README.md com um passo a passo para que seja possível executá-lo.</br>
-Projetos que não puderem ser executados não serão avaliados.
-
-
